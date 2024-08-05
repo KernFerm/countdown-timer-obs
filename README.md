@@ -52,6 +52,10 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 - Change the `sound.set_volume(0.26)` line to adjust the volume of the alert sound.
 - Replace `'example.mp3'` with the name of your sound file.
 
+## Info 
 
-
-
+- To get sounds if you `do not` have any on your computer.
+- youtube.com then find your sound you want to use as entrance theme.
+- go to `URL` remove the letters `ebu`
+- `URL` now should say yout.com/whatever url you have at the end of yout.com
+ 
