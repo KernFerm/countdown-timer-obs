@@ -1,6 +1,6 @@
 # Countdown Timer for OBS with Sound Alert
 
-This Python script creates a countdown timer overlay for OBS (Open Broadcaster Software) and plays a nuke siren sound when the timer reaches a specific point.
+This Python script creates a countdown timer overlay for OBS (Open Broadcaster Software) and plays which ever sound when the timer reaches a specific point.
 
 ## Features
 
