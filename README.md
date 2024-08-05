@@ -48,8 +48,9 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 ## Customization
 
-- Modify the duration parameter in the countdown_timer function to change the length of the countdown.
-- Change the nuke_siren.set_volume(0.5) line to adjust the volume of the alert sound.
+- Modify the `duration` parameter in the `countdown_timer` function to change the length of the countdown.
+- Change the `sound.set_volume(0.26)` line to adjust the volume of the alert sound.
+- Replace `'example.mp3'` with the name of your sound file.
 
 
 
