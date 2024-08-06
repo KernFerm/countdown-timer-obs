@@ -10,6 +10,11 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 - Plays a sound alert at 30 seconds remaining
 - `.mp3` or `.wav`
 
+- You can use it for other stuff like 
+- timeout timer
+- cooking timer
+- etc
+
 ## Requirements
 
 - [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
