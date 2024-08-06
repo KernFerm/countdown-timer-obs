@@ -8,6 +8,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 - Countdown timer display
 - Plays a sound alert at 30 seconds remaining
+- `.mp3` or `.wav`
 
 ## Requirements
 
@@ -41,7 +42,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 ## Usage
 
-1. Place your MP3 file (`example.mp3`) in the same directory as the script.
+1. Place your MP3 file or WAV file (`example.mp3`) in the same directory as the script.
 2. **Run the script:**
 
   ```
@@ -52,7 +53,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 - Modify the `duration` parameter in the `countdown_timer` function to change the length of the countdown.
 - Change the `sound.set_volume(0.26)` line to adjust the volume of the alert sound.
-- Replace `'example.mp3'` with the name of your sound file.
+- Replace `'example.mp3'` or `example.wav` with the name of your sound file.
 
 ## Info 
 
