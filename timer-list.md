@@ -1,8 +1,8 @@
 # Set timer for 1 minute (60 seconds)
-countdown_timer(60)   ⬅️ goes at the bottom of main.py
+countdown_timer(60)       ⬅️ goes at the bottom of main.py
 
 # Set timer for 5 minutes (300 seconds)
-countdown_timer(300)   ⬅️ goes at the bottom of main.py
+countdown_timer(300)     ⬅️ goes at the bottom of main.py
 
 # Set timer for 10 minutes (600 seconds)
 countdown_timer(600)   ⬅️ goes at the bottom of main.py
