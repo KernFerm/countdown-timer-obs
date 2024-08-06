@@ -11,7 +11,7 @@ def countdown_timer(duration):
     # Initialize mixer for sound playback
     pygame.mixer.init()
     "# make sure to place name of the .mp3 or .wav example:  peanut_butter in this place remove quotes" = pygame.mixer.Sound('example.mp3') # place your .mp3 or .wav which ever you want to use just make sure to replace .mp3 if it is a .wav same if it is a .wav to .mp3 
-    peanut_butter.set_volume(0.26)  # Set volume to 50%  # see i did the same peanut_butter.set_volume(0.25)   make sure to put your actual .mp3 name in place of peanut_butter
+    peanut_butter.set_volume(0.26)  # set volume  # see i did the same peanut_butter.set_volume(0.25)   make sure to put your actual .mp3 name in place of peanut_butter
 
     clock = pygame.time.Clock()
     start_ticks = pygame.time.get_ticks()
@@ -41,10 +41,10 @@ def countdown_timer(duration):
         clock.tick(60)
 
         # Play the nuke siren when timer is at 30 seconds
-        if duration == 30: 
+        if duration == 30: # change the seconds to when the sound will start playing 
             peanut_butter.play() # make sure to put your actual .mp3 name in place of peanut_butter
 
     pygame.quit()
 
 if __name__ == "__main__":
-    countdown_timer(60)  # 1 minute
+    countdown_timer(60)  # set timer
