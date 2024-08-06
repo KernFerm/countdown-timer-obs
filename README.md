@@ -60,4 +60,25 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 - youtube.com then find your sound you want to use as entrance theme.
 - go to `URL` remove the letters `ebu`
 - `URL` now should say yout.com/whatever url you have at the end of yout.com
- 
+
+## Add to OBS
+**Run the Countdown Timer Script:**
+
+**Ensure your countdown timer script is running.**
+- Add Window Capture Source in OBS:
+
+## Open OBS.
+- In the `Sources` panel, click on the + button at the bottom.
+- Select `Window Capture`.
+- Name the new source (e.g., "Countdown Timer") and click `OK`.
+- In the properties window, select the countdown timer window from the `Window` dropdown menu.
+- Adjust the size and position of the window capture to fit your stream layout.
+- Click `OK` to add the source.
+
+# Add Audio Output Capture Source in OBS:
+- In the `Sources` panel, click on the + button at the bottom.
+- Select `Audio Output Capture`.
+- Name the new source (e.g., "System Audio") and click `OK`.
+- In the properties window, select the appropriate audio device (usually the default audio device or speakers).
+- Click `OK` to add the source.
+
