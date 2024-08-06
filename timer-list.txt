@@ -1,0 +1,35 @@
+# Set timer for 1 minute (60 seconds)
+countdown_timer(60)
+
+# Set timer for 5 minutes (300 seconds)
+countdown_timer(300)
+
+# Set timer for 10 minutes (600 seconds)
+countdown_timer(600)
+
+# Set timer for 15 minutes (900 seconds)
+countdown_timer(900)
+
+# Set timer for 20 minutes (1200 seconds)
+countdown_timer(1200)
+
+# Set timer for 25 minutes (1500 seconds)
+countdown_timer(1500)
+
+# Set timer for 30 minutes (1800 seconds)
+countdown_timer(1800)
+
+# Set timer for 35 minutes (2100 seconds)
+countdown_timer(2100)
+
+# Set timer for 40 minutes (2400 seconds)
+countdown_timer(2400)
+
+# Set timer for 45 minutes (2700 seconds)
+countdown_timer(2700)
+
+# Set timer for 50 minutes (3000 seconds)
+countdown_timer(3000)
+
+# Set timer for 55 minutes (3300 seconds)
+countdown_timer(3300)
