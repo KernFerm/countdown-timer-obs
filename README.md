@@ -64,7 +64,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
   ```
 
 - use this `create_and_activate_venv_install_dependencies.bat`
-  or
+- or
 - use this `install_requirements.bat`
  
 ## Usage
