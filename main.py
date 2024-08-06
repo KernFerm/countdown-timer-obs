@@ -47,4 +47,4 @@ def countdown_timer(duration):
     pygame.quit()
 
 if __name__ == "__main__":
-    countdown_timer(60)  # set timer
+    countdown_timer(60)  # replace it with the one you want in timer-list.md
