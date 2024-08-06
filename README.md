@@ -49,6 +49,11 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
   pip install -r requirements.txt
   ```
 
+- use this [create_and_activate_venv_install_dependencies.bat](https://github.com/KernFerm/countdown-timer-OBS/blob/main/create_and_activate_venv_install_dependencies.bat)
+  or
+- use this [install_requirements.bat](https://github.com/KernFerm/countdown-timer-OBS/blob/main/install_requirements.bat)
+
+ 
 ## Usage
 
 1. Place your MP3 file or WAV file (`example.mp3`) in the same directory as the script.
