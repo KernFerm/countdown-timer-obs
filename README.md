@@ -10,7 +10,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 ## Pull Request
 - make a `pull request` for [OpenSource-Sounds-For-Coundown-Timer](https://github.com/KernFerm/countdown-timer-OBS/tree/main/OpenSource-Sounds-For-Coundown-Timer)
-- Download make a github account `free to make`
+- make a github account `free to make`
 - `fork` the repo `copy main branch`
 - `drag` n `drop` sounds into OpenSource-Sounds-For-Coundown-Timer Folder for others to use
 - `.mp3` or . `wav`
