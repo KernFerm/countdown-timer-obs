@@ -27,7 +27,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 - timeout timer
 - cooking timer
 - etc
-- use it as a timer only , do the same steps but leave out the `obs steps`
+- use it as a timer only , do the `same steps` but leave out the `obs steps`
 
 ## Requirements
 
