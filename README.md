@@ -8,6 +8,13 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 - Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos).
 
+## For Beginners at coding
+- look at the `main.py`
+- you will see my notes i made
+- adding the sounds to the code is `NOT` hard to do
+- just follow my instructions
+- if you have trouble join my discord dev server [Bubbles Dev Server](https://discord.com/invite/N7MHmbyet7)
+
 ## 🔄 Pull Request
 - Make a `pull request` for [OpenSource-Sounds-For-Coundown-Timer](https://github.com/KernFerm/countdown-timer-OBS/tree/main/OpenSource-Sounds-For-Coundown-Timer).
 - Create a GitHub account (it's free!).
