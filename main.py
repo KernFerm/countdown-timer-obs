@@ -38,10 +38,10 @@ def countdown_timer(duration):
             duration -= 1
             start_ticks = pygame.time.get_ticks()  # Reset the start time
 
-        clock.tick(60)
+        clock.tick(30) # to reduce CPU usage  30 is recommended DONT go Above 30
 
-        # Play the nuke siren when timer is at 30 seconds
-        if duration == 30: # change the seconds to when the sound will start playing 
+        # Play the sound when timer is at x seconds
+        if duration == 40: # change the seconds to when the sound will start playing 
             peanut_butter.play() # make sure to put your actual .mp3 name in place of peanut_butter
 
     pygame.quit()
