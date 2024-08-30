@@ -38,7 +38,11 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 
 ## Requirements
 
+ ### If you dont have a pet python here is a couple below:
+- **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
 - [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+- [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
+- [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
 - `pygame` library
 
 ## Installation
