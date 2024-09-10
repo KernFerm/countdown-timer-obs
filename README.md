@@ -48,7 +48,7 @@ This Python script creates a countdown timer overlay for OBS (Open Broadcaster S
 ## Installation
 
 1. **Clone this repository:**
-  
+  - make sure to make a folder on `Desktop` then `CD` it in `CMD.exe` then do the `Git Clone`.  
   ```
   git clone https://github.com/kernferm/countdown-timer-obs.git
   cd countdown-timer-obs
