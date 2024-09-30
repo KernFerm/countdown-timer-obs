@@ -10,8 +10,8 @@ def countdown_timer(duration):
 
     # Initialize mixer for sound playback
     pygame.mixer.init()
-    "# make sure to place name of the .mp3 or .wav example:  peanut_butter in this place remove quotes" = pygame.mixer.Sound('example.mp3') # place your .mp3 or .wav which ever you want to use just make sure to replace .mp3 if it is a .wav same if it is a .wav to .mp3 
-    peanut_butter.set_volume(0.26)  # set volume  # see i did the same peanut_butter.set_volume(0.25)   make sure to put your actual .mp3 name in place of peanut_butter
+    peanut_butter = pygame.mixer.Sound('example.mp3')  # Replace 'example.mp3' with your actual sound file
+    peanut_butter.set_volume(0.26)  # Adjust volume as needed
 
     clock = pygame.time.Clock()
     start_ticks = pygame.time.get_ticks()
@@ -36,15 +36,15 @@ def countdown_timer(duration):
         elapsed_time = (pygame.time.get_ticks() - start_ticks) / 1000
         if elapsed_time >= 1:
             duration -= 1
-            start_ticks = pygame.time.get_ticks()  # Reset the start time
+            start_ticks = pygame.time.get_ticks()  # Optional: reset after each second
 
-        clock.tick(30) # to reduce CPU usage  30 is recommended DONT go Above 30
+        clock.tick(30)  # Reduces CPU usage
 
         # Play the sound when timer is at x seconds
-        if duration == 40: # change the seconds to when the sound will start playing 
-            peanut_butter.play() # make sure to put your actual .mp3 name in place of peanut_butter
+        if duration == 40 and not pygame.mixer.get_busy():  # Play once when the timer hits 40 seconds
+            peanut_butter.play()
 
     pygame.quit()
 
 if __name__ == "__main__":
-    countdown_timer(60)  # replace it with the one you want in timer-list.md
+    countdown_timer(60)  # Adjust the timer duration as needed
