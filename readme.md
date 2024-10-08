@@ -6,6 +6,8 @@ A Python-based countdown timer built using Pygame and Tkinter. This application 
 
 - Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos).
 
+### [Download_Bubbles_The_Dev-Countdown-Timer.zip](https://github.com/KernFerm/countdown-timer-obs/releases/tag/countdown-timer-exe)
+
 ## Features
 
 - Adjustable countdown timer.
