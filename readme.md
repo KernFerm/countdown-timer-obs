@@ -27,6 +27,28 @@ A Python-based countdown timer built using Pygame and Tkinter. This application 
 - [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
 - [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
 
+```
+.
+├── .github/
+│   └── ISSUE_TEMPLATE            # GitHub issue templates
+│
+├── OpenSource-Sounds-For-Countdown-Timer/   # Directory for countdown sounds
+│
+├── image/                        # Directory for images
+│
+├── CODE_OF_CONDUCT.md            # Code of Conduct for the project
+├── CONTRIBUTING.md               # Guidelines for contributing
+├── LICENSE                       # License information
+├── SECURITY.md                   # Security policy
+├── Sounds.txt                    # List or details about sound files
+├── install_dep.bat               # Batch script to install dependencies
+├── main-launcher.bat             # Main batch script to launch the program
+├── main.py                       # Main Python file for your program
+├── readme.md                     # Main project documentation (README)
+├── requirements.txt              # Python dependencies
+└── timer-list.md                 # Information about available timers
+```
+
 ## Installation
 
 1. **Clone the repository**:
