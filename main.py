@@ -37,7 +37,7 @@ def countdown_timer():
     button_font = pygame.font.SysFont(None, 30)
 
     screen = pygame.display.set_mode((600, 700))
-    pygame.display.set_caption('Countdown Timer')
+    pygame.display.set_caption('Bubbles The Dev - Countdown Timer')
 
     pygame.mixer.init()
 
