@@ -1,4 +1,4 @@
-# Countdown Timer with Sound
+# Bubbles The Dev - Countdown Timer with Sound
 
 A Python-based countdown timer built using Pygame and Tkinter. This application allows users to adjust the timer, import sound files (`.mp3` or `.wav`), and play a sound when the timer reaches 30 seconds. The interface is user-friendly and includes buttons to start, stop, increase, decrease, and reset the timer.
 
