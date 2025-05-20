@@ -151,13 +151,4 @@ FPS = 30  # Frames per second for the Pygame clock
 - Please read our `Contributing Guidelines` and `Code of Conduct` before making a pull request.
 
 
-
-
-
-
-
-
-
-
-
-
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
