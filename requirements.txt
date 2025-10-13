@@ -1,2 +1,2 @@
-pygame
-tk
+pygame==2.6.1
+tk==0.1.0
