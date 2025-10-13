@@ -24,9 +24,7 @@ A Python-based countdown timer built using Pygame and Tkinter. This application 
 ### If you don't have Python installed, here are some options:
 
 - **YOU ONLY NEED ONE VERSION OF PYTHON TO RUN THIS!!**
-  - [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
   - [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
-  - [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
 
 ```
 .
@@ -152,3 +150,4 @@ FPS = 30  # Frames per second for the Pygame clock
 
 
 - [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
